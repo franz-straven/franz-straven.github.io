@@ -1,8 +1,8 @@
 ---
-title: "Data Representation - Floating Point Numbers"
+title: "[백준 | solved.ac CLASS 1] 1000번 문제 'A+B'"
 subtitle: "「数据表示」浮点数"
 layout: post
-author: "Hux"
+author: "Franz Straven"
 header-style: text
 tags:
   - 笔记
